@@ -1,0 +1,11 @@
+<map>
+  <entry>
+    <string>123</string>
+    <dk.japps.storage.XmlStorage_-Person>
+      <name>Goofie</name>
+      <outer-class>
+        <persistableObjects/>
+      </outer-class>
+    </dk.japps.storage.XmlStorage_-Person>
+  </entry>
+</map>
