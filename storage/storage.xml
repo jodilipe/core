@@ -1,5 +1,21 @@
 <map>
   <entry>
+    <string>0035123952</string>
+    <dk.japps.test.storage.XmlStorageTest_-A>
+      <id>
+        <id>0035123952</id>
+      </id>
+    </dk.japps.test.storage.XmlStorageTest_-A>
+  </entry>
+  <entry>
+    <string>3701748144</string>
+    <dk.japps.test.storage.XmlStorageTest_-A>
+      <id>
+        <id>3701748144</id>
+      </id>
+    </dk.japps.test.storage.XmlStorageTest_-A>
+  </entry>
+  <entry>
     <string>123</string>
     <dk.japps.storage.XmlStorage_-Person>
       <name>Goofie</name>
@@ -7,5 +23,13 @@
         <persistableObjects/>
       </outer-class>
     </dk.japps.storage.XmlStorage_-Person>
+  </entry>
+  <entry>
+    <string>6636794772</string>
+    <dk.japps.test.storage.XmlStorageTest_-A>
+      <id>
+        <id>6636794772</id>
+      </id>
+    </dk.japps.test.storage.XmlStorageTest_-A>
   </entry>
 </map>
